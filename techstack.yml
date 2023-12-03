@@ -1,0 +1,227 @@
+repo_name: tamaslukacs/Surviving-with-android
+report_id: 10b5121ee496fc3fbe4b613afe7d5a01
+repo_type: Public
+timestamp: '2023-12-03T15:16:01+00:00'
+requested_by: survivingwithandroid
+provider: github
+branch: master
+detected_tools_count: 15
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  version: '21.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/Weathermap/app/build.gradle
+  detection_source: Weathermap/app/build.gradle
+  last_updated_by: Survivingwithandroid
+  last_updated_on: 2016-08-15 19:12:47.000000000 Z
+- name: Firebase
+  description: The Realtime App Platform
+  website_url: https://firebase.google.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source: AndroidFirebasePush/app/build.gradle
+  last_updated_by: Survivingwithandroid
+  last_updated_on: 2016-10-08 15:36:37.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source: AndroidCharts/app/build.gradle
+  last_updated_by: Surviving with android
+  last_updated_on: 2014-07-21 19:48:35.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  version: '5.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/Weathermap/app/build.gradle
+  detection_source: Weathermap/app/build.gradle
+  last_updated_by: Survivingwithandroid
+  last_updated_on: 2016-08-15 19:12:47.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: AccountNavigationDrawer/.google_apis/drive-v2r76lv1.14.2-beta/drive/dependencies/google-api-client-android-dependencies.html
+  last_updated_by: Survivingwithandroid
+  last_updated_on: 2013-06-11 20:43:21.000000000 Z
+- name: com.parse.bolts:bolts-android
+  description: Bolts is a collection of low-level libraries designed to make developing
+    mobile apps easier
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/ParsePushTutorial/app/build.gradle
+  detection_source: ParsePushTutorial/app/build.gradle
+  last_updated_by: Survivingwithandroid
+  last_updated_on: 2015-09-22 20:01:29.000000000 Z
+- name: com.parse:parse-android
+  description: A library that gives you access to the powerful Parse cloud platform
+    from your Android app
+  version: 1.10.1
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/ParsePushTutorial/app/build.gradle
+  detection_source: ParsePushTutorial/app/build.gradle
+  last_updated_by: Survivingwithandroid
+  last_updated_on: 2015-09-22 20:01:29.000000000 Z
+- name: com.squareup.okhttp3:okhttp
+  description: 'Null'
+  version: 3.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidThings_SwA_Bot/app/build.gradle
+  detection_source: AndroidThings_SwA_Bot/app/build.gradle
+  last_updated_by: Survivingwithandroid
+  last_updated_on: 2017-09-19 19:53:16.000000000 Z
+- name: com.squareup.okhttp:okhttp
+  description: An HTTP client for Android, Kotlin, and Java
+  version: 2.4.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidDataBinding/app/build.gradle
+  detection_source: AndroidDataBinding/app/build.gradle
+  last_updated_by: Survivingwithandroid
+  last_updated_on: 2015-09-08 20:40:49.000000000 Z
+- name: com.squareup.picasso:picasso
+  description: A powerful image downloading and caching library for Android
+  version: 2.5.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/UnifiedSocialProfile/app/build.gradle
+  detection_source: UnifiedSocialProfile/app/build.gradle
+  last_updated_by: Survivingwithandroid
+  last_updated_on: 2016-10-19 19:13:12.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.12'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidFirebasePush/app/build.gradle
+  detection_source: AndroidFirebasePush/app/build.gradle
+  last_updated_by: Survivingwithandroid
+  last_updated_on: 2016-10-08 15:36:37.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: org.jsoup:jsoup
+  description: Jsoup is a Java library for working with real-world HTML
+  version: 1.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidJSoup/jsoup/build.gradle
+  detection_source: AndroidJSoup/jsoup/build.gradle
+  last_updated_by: Survivingwithandroid
+  last_updated_on: 2014-05-17 07:27:24.000000000 Z
+  vulnerabilities:
+  - name: Uncaught Exception in jsoup
+    cve_id: CVE-2021-37714
+    cve_url: https://github.com/advisories/GHSA-m72m-mhq2-9p6c
+    detected_date: Aug 24
+    severity: high
+    first_patched: 1.14.2
+  - name: jsoup may not sanitize code injection XSS attempts if SafeList.preserveRelativeLinks
+      is enabled
+    cve_id: CVE-2022-36033
+    cve_url: https://github.com/advisories/GHSA-gp7f-rwcx-9369
+    detected_date: Sep 2
+    severity: moderate
+    first_patched: 1.15.3
+  - name: Improper Neutralization of Input During Web Page Generation in Jsoup
+    cve_id: CVE-2015-6748
+    cve_url: https://github.com/advisories/GHSA-48rh-qgjr-xfj6
+    detected_date: Jul 7
+    severity: moderate
+    first_patched: 1.8.3
+- name: org.nanohttpd:nanohttpd
+  description: Tiny, easily embeddable HTTP server in Java
+  version: 2.2.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidThings_Motors/app/build.gradle
+  detection_source: AndroidThings_Motors/app/build.gradle
+  last_updated_by: Survivingwithandroid
+  last_updated_on: 2018-08-10 19:48:22.000000000 Z
+  vulnerabilities:
+  - name: XXS in NanoHTTPD
+    cve_id: CVE-2020-13697
+    cve_url: https://github.com/advisories/GHSA-pr5m-4w22-8483
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 
