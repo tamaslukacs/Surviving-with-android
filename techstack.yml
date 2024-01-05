@@ -1,7 +1,8 @@
 repo_name: tamaslukacs/Surviving-with-android
 report_id: 10b5121ee496fc3fbe4b613afe7d5a01
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-03T15:16:01+00:00'
+timestamp: '2024-01-05T08:29:02+00:00'
 requested_by: survivingwithandroid
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -27,7 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
-  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/Weathermap/app/build.gradle
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/Weathermap/app/build.gradle
   detection_source: Weathermap/app/build.gradle
   last_updated_by: Survivingwithandroid
   last_updated_on: 2016-08-15 19:12:47.000000000 Z
@@ -39,6 +41,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidFirebasePush/app/build.gradle
   detection_source: AndroidFirebasePush/app/build.gradle
   last_updated_by: Survivingwithandroid
   last_updated_on: 2016-10-08 15:36:37.000000000 Z
@@ -50,6 +53,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -60,6 +64,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidCharts/app/build.gradle
   detection_source: AndroidCharts/app/build.gradle
   last_updated_by: Surviving with android
   last_updated_on: 2014-07-21 19:48:35.000000000 Z
@@ -72,7 +77,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
-  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/Weathermap/app/build.gradle
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/Weathermap/app/build.gradle
   detection_source: Weathermap/app/build.gradle
   last_updated_by: Survivingwithandroid
   last_updated_on: 2016-08-15 19:12:47.000000000 Z
@@ -82,6 +87,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/AccountNavigationDrawer/.google_apis/drive-v2r76lv1.14.2-beta/drive/dependencies/google-api-client-android-dependencies.html
   detection_source: AccountNavigationDrawer/.google_apis/drive-v2r76lv1.14.2-beta/drive/dependencies/google-api-client-android-dependencies.html
   last_updated_by: Survivingwithandroid
   last_updated_on: 2013-06-11 20:43:21.000000000 Z
@@ -95,7 +101,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/ParsePushTutorial/app/build.gradle
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/ParsePushTutorial/app/build.gradle
   detection_source: ParsePushTutorial/app/build.gradle
   last_updated_by: Survivingwithandroid
   last_updated_on: 2015-09-22 20:01:29.000000000 Z
@@ -109,7 +115,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/ParsePushTutorial/app/build.gradle
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/ParsePushTutorial/app/build.gradle
   detection_source: ParsePushTutorial/app/build.gradle
   last_updated_by: Survivingwithandroid
   last_updated_on: 2015-09-22 20:01:29.000000000 Z
@@ -122,7 +128,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidThings_SwA_Bot/app/build.gradle
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidThings_SwA_Bot/app/build.gradle
   detection_source: AndroidThings_SwA_Bot/app/build.gradle
   last_updated_by: Survivingwithandroid
   last_updated_on: 2017-09-19 19:53:16.000000000 Z
@@ -135,7 +141,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidDataBinding/app/build.gradle
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidDataBinding/app/build.gradle
   detection_source: AndroidDataBinding/app/build.gradle
   last_updated_by: Survivingwithandroid
   last_updated_on: 2015-09-08 20:40:49.000000000 Z
@@ -148,7 +154,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/UnifiedSocialProfile/app/build.gradle
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/UnifiedSocialProfile/app/build.gradle
   detection_source: UnifiedSocialProfile/app/build.gradle
   last_updated_by: Survivingwithandroid
   last_updated_on: 2016-10-19 19:13:12.000000000 Z
@@ -161,7 +167,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidFirebasePush/app/build.gradle
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidFirebasePush/app/build.gradle
   detection_source: AndroidFirebasePush/app/build.gradle
   last_updated_by: Survivingwithandroid
   last_updated_on: 2016-10-08 15:36:37.000000000 Z
@@ -181,7 +187,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidJSoup/jsoup/build.gradle
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidJSoup/jsoup/build.gradle
   detection_source: AndroidJSoup/jsoup/build.gradle
   last_updated_by: Survivingwithandroid
   last_updated_on: 2014-05-17 07:27:24.000000000 Z
@@ -214,7 +220,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidThings_Motors/app/build.gradle
+  detection_source_url: https://github.com/tamaslukacs/Surviving-with-android/blob/master/AndroidThings_Motors/app/build.gradle
   detection_source: AndroidThings_Motors/app/build.gradle
   last_updated_by: Survivingwithandroid
   last_updated_on: 2018-08-10 19:48:22.000000000 Z
